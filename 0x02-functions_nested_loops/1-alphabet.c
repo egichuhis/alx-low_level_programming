@@ -7,7 +7,7 @@
  *
  * *Return: no return
  *
- * */
+*/
 
 void print_alphabet(void)
 {
