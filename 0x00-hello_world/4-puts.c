@@ -1,18 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
-/* this is a comment */
 /**
  *
- * *main - Main function of my project
- *
- * *
- *
- * *
+ * *main - Main function of my project*
  *
  * *Return: return 0 everytime
  *
  */
+
 int main(void)
 {
 char displayed[52];
