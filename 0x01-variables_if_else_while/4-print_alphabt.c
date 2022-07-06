@@ -2,7 +2,7 @@
 #include <ctype.h>
 
 /**
- * *main - Program to print alphabet letters except q and e followed by new line
+ * *main - print alphabet letters except q and e followed by new line
  *
  * *Return: return 0
  *
@@ -21,4 +21,4 @@ putchar(letter);
 }
 putchar('\n');
 return (0);
-}
+
