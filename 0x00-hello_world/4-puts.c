@@ -12,7 +12,7 @@
  *
  * *Return: return 0 everytime
  *
- * */
+ */
 int main(void)
 {
 char displayed[52];
