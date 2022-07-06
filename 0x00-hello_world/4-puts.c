@@ -2,10 +2,13 @@
 #include <string.h>
 
 /* this is a comment */
-
 /**
  *
- * main: Main function of my project
+ * *main - Main function of my project
+ *
+ * *
+ *
+ * *
  *
  * *Return: return 0 everytime
  *
